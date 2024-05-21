@@ -56,7 +56,7 @@ Web Development Portfolio Landing Pages Challenges
 - Include images, name, designation (web developer), and a short description of the individual's skills and expertise.
 
 Ekspektasi Tampilan : 
-![image](https://drive.google.com/uc?export=view&id=1X4Oy3V8OQm4ATJol0YsHvaGwlF-wCBI3) 
+![image](Release1.png) 
 
 
 ####Release 2:
@@ -66,7 +66,7 @@ Ekspektasi Tampilan :
 - The data should include the following fields: name, email, and phone number.
 
 Ekspektasi Tampilan : 
-![image](https://drive.google.com/uc?export=view&id=1X4Oy3V8OQm4ATJol0YsHvaGwlF-wCBI3) 
+![image](Release2.png) 
 
 ####Release 3:
 
@@ -76,7 +76,10 @@ Ekspektasi Tampilan :
 - Provide appropriate feedback or error messages for invalid form submissions.
 
 Ekspektasi Tampilan : 
-![image](https://drive.google.com/uc?export=view&id=1X4Oy3V8OQm4ATJol0YsHvaGwlF-wCBI3) 
+![image](Release3.png)
+
+All Release : 
+![image](AllRelease.png)
 
 Selamat Mengerjakan.. Good Luck
 
