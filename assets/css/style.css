@@ -1,0 +1,70 @@
+img {
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+header {
+    background-color: #333333;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2 {
+    margin-top: 10px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    display: inline;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+
+table {
+    margin-top: 100px;
+    border-collapse: collapse;
+}
+
+form {
+    margin:0 auto;
+    width: 400px;
+    padding: 50px;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+textarea {
+    margin-bottom: 10px;
+    width: 380px;
+    height: 100px;
+}
+
+button {
+    background-color: #333333;
+    color: white;
+}
+
+.btn-delete {
+    background-color:red;
+    color: white;
+}
+
+.btn-edit {
+    background-color: blue;
+    color: white;
+}
